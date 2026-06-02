@@ -1,0 +1,44 @@
+{
+  "feat/esm-migration-attempt": [
+    {
+      "sha": "47ff660fbebfeb0ed80c9f18e329b55977f49c84",
+      "author": "apoctump",
+      "message": "Add ESM import attempt in main.js",
+      "files_changed": 1
+    },
+    {
+      "sha": "765ca1e6343b890dd8f93c0bd3fda4ef62522d52",
+      "author": "apoctump",
+      "message": "Attempt ESM migration - update package.json with module type",
+      "files_changed": 1
+    },
+    {
+      "sha": "a7af54f589c25ebd4c860ab9160bf09de3994d9b",
+      "author": "apoctump",
+      "message": "Initial commit",
+      "files_changed": 1
+    }
+  ],
+  "fix/race-condition-tokenizer-loading": [
+    {
+      "sha": "5ce75c895a07437c7984fc059cd44e7e92c4730f",
+      "author": "apoctump",
+      "message": "Add thread-safe tokenizer loading implementation",
+      "files_changed": 1
+    },
+    {
+      "sha": "a7af54f589c25ebd4c860ab9160bf09de3994d9b",
+      "author": "apoctump",
+      "message": "Initial commit",
+      "files_changed": 1
+    }
+  ],
+  "main": [
+    {
+      "sha": "a7af54f589c25ebd4c860ab9160bf09de3994d9b",
+      "author": "apoctump",
+      "message": "Initial commit",
+      "files_changed": 1
+    }
+  ]
+}
